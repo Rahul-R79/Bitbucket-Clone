@@ -28,7 +28,6 @@ Screenshots
 ![Screenshot (201)](https://github.com/Rahul-R79/Bitbucket-Clone/assets/158848606/959a3220-9941-4757-a867-ef3e2441bd90)
 ![Screenshot (202)](https://github.com/Rahul-R79/Bitbucket-Clone/assets/158848606/319f2bd0-a2b2-468b-b145-dae13dbdde8b)
 ![Screenshot (203)](https://github.com/Rahul-R79/Bitbucket-Clone/assets/158848606/30679c0e-9cd3-4f95-84d8-5530e32cb25d)
-![Screenshot (192)](https://github.com/Rahul-R79/Bitbucket-Clone/assets/158848606/89161371-8db3-4399-bb97-09156318ebcc)
 
 Contributing
 
