@@ -12,7 +12,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/bitbucket-clone.git
+https://github.com/Rahul-R79/Bitbucket-Clone.git
 Open index.html in your preferred web browser.
 Explore the basic functionalities of the Bitbucket clone.
 Screenshots
