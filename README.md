@@ -15,7 +15,9 @@ Copy code
 https://github.com/Rahul-R79/Bitbucket-Clone.git
 Open index.html in your preferred web browser.
 Explore the basic functionalities of the Bitbucket clone.
+
 Screenshots
+![Screenshot (192)](https://github.com/Rahul-R79/Bitbucket-Clone/assets/158848606/0473a578-a93e-45d4-ab6d-9d6b0ba1d429)
 
 Contributing
 
