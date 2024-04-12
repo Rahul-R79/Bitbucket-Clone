@@ -1,4 +1,4 @@
-# Bitbucket Clone
+# Wibbitz Clone
 
 *This project is a simple Bitbucket clone created using HTML and CSS. It aims to replicate the basic features and styling of Bitbucket for educational purposes.*
 
